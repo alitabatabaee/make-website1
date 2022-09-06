@@ -63,6 +63,12 @@
 .footer{
     text-align: center;
 }
+table, th, td{
+    border: 1px solid #ccc;
+}
+table{
+    width: 100%;
+}
 @media(max-width: 768px) {
     .rule-part{
         flex-direction: column;
